@@ -12,6 +12,6 @@ About Me
     <h2>Video Games</h2>
     <p>Video games have been a big influence in my life so much so that im still chasing them into my carrer. Some of my favorite video games being; The Last of us, Elden ring, Mortal Kombat, and Dragon ball xenoverse.</p>
     <h3>Websites</h3>
-    <!-- [YouTube] https://www.youtube.com: Great place for entertainment and tutorials -->
-     <!-- [dndbeyond] https://www.dndbeyond.com: If you play dnd this has everything you need -->
+    <p> [YouTube] https://www.youtube.com: Great place for entertainment and tutorials </p>
+    <p> [dndbeyond] https://www.dndbeyond.com: If you play dnd this has everything you need </p>
 
