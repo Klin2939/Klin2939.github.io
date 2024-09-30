@@ -15,3 +15,12 @@ About Me
     <p> [YouTube] https://www.youtube.com: Great place for entertainment and tutorials</p>
     <p> [dndbeyond] https://www.dndbeyond.com: If you play dnd this has everything you need and is what I use</p>
 
+```mermaid
+flowchart TD
+    A[Start Game] --> |User inputs number range| B[Choose random number from range provided]
+    B --> C{User enters their guess}
+    C -->|Number entered is close to target| D[Warm is produced]--> C
+    C -->|The entry isnt a number or a number within range| E[Error is producded]--> C
+    C -->|Number entered is Far from target| F[ Cold is produced] --> C 
+    C --> |User enters correct guess| G[Win screen apears and game ends]
+```
