@@ -34,5 +34,3 @@ flowchart TD
 6. If the user enters any thing out side the range or something that isnt a number then the game will produce an error and will allow the user enter something else 
 7. Finally if the number entered is the picked number then the game will produce a win screen
 8. The game will finally end 
-
-CHICKEN NUUGETS
