@@ -35,3 +35,4 @@ flowchart TD
 7. Finally if the number entered is the picked number then the game will produce a win screen
 8. The game will finally end 
 
+CHICKEN NUUGETS
